@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "IS THIS LOVE",
+  "base_artist": "XG",
+  "createdAt": "2026-02-15T03:24:07.911870Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Is This Love",
+      "artist": "Survivor",
+      "has_synced": true,
+      "path": "select/01_Is_This_Love_Survivor.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Is This Love?",
+      "artist": "Alison Moyet",
+      "has_synced": true,
+      "path": "select/02_Is_This_Love_Alison_Moyet.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Is This Love",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/03_Is_This_Love_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Is This Love",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/04_Is_This_Love_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Is This Love?",
+      "artist": "Cake",
+      "has_synced": true,
+      "path": "select/05_Is_This_Love_Cake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Is This Love?",
+      "artist": "Clap Your Hands Say Yeah",
+      "has_synced": true,
+      "path": "select/06_Is_This_Love_Clap_Your_Hands_Say_Yeah.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Is This Love",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/07_Is_This_Love_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Is This Love?",
+      "artist": "The Fireman",
+      "has_synced": false,
+      "path": "select/08_Is_This_Love_The_Fireman.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Is This Love (Live)",
+      "artist": "Rhianna",
+      "has_synced": false,
+      "path": "select/09_Is_This_Love_(Live)_Rhianna.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Is This Love",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/10_Is_This_Love_Rihanna.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Is This Love",
+      "artist": "Whitesnake",
+      "has_synced": true,
+      "path": "select/11_Is_This_Love_Whitesnake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Is This Love",
+      "artist": "Whitesnake",
+      "has_synced": true,
+      "path": "select/12_Is_This_Love_Whitesnake.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Is This Love",
+      "artist": "Whitesnake",
+      "has_synced": false,
+      "path": "select/13_Is_This_Love_Whitesnake.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Is This Love ('09) (feat. 50 Cent)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/14_Is_This_Love_('09)_(feat._50_Cent)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Is This Love ('09)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/15_Is_This_Love_('09)_Eminem.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IS THIS LOVE",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_IS_THIS_LOVE_XG.txt"
+    }
+  ]
+}
